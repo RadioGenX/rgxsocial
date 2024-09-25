@@ -55,7 +55,7 @@ body {
 .ossn-form textarea,
 .ossn-form input[type='text'] {
 	width: 100%;
-	background-color: #f9f9f9;
+	background-color: #000000;
 	border: 1px solid #ccd0d5;
 	padding: 8px;
 	margin-bottom: 5px;
@@ -1417,7 +1417,7 @@ a {
 
 .ossn-notifications-box .notificaton-item:hover,
 .ossn-notifications-box .notificaton-item .active {
-	background-color: #F9F9F9;
+	background-color: #000000;
 }
 
 .ossn-notifications-box .type-name {
@@ -1526,7 +1526,7 @@ a {
 .ossn-notifications-box a:hover,
 .ossn-notifications-all a:hover,
 .ossn-notifications-all li:hover {
-	background: #F9F9F9;
+	background: #000000;
 }
 
 .ossn-notification-container {
@@ -1910,7 +1910,7 @@ li[class^="menu-section-item-"] {
 }
 
 .ossn-menu-search li:hover {
-	background: #F9F9F9;
+	background: #000000;
 }
 
 .ossn-menu-search li a {
@@ -2014,7 +2014,7 @@ li.token-input-token span {
 }
 
 li.token-input-selected-token {
-	background-color: #F9F9F9;
+	background-color: #000000;
 	border: 1px solid #eee;
 	color: #2B5470;
 	font-weight: bold;
@@ -2070,7 +2070,7 @@ div.token-input-dropdown ul li em {
 }
 
 div.token-input-dropdown ul li.token-input-selected-dropdown-item {
-	background-color: #F9F9F9;
+	background-color: #000000;
 	color: #2B5470;
 	font-weight: bold;
 }

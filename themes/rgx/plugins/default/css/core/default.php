@@ -2249,7 +2249,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	appearance: none;
 	display: inline-block;
 	position: relative;
-	background-color: #ececec;
+	background-color: #000000;
 	color: #666;
 	top: 5px;
 	height: 20px;

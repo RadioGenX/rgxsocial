@@ -56,7 +56,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #000000;
+  --bs-body-color: lime;
   --bs-body-bg: #000000;
   --bs-border-width: 1px;
   --bs-border-style: solid;
@@ -68,8 +68,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #0d6efd;
-  --bs-link-hover-color: #0a58ca;
+  --bs-link-color: yellow;
+  --bs-link-hover-color: yellow;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }

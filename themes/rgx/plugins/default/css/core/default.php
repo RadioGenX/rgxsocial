@@ -439,7 +439,7 @@ a {
 .topbar-menu-right li:hover,
 .topbar-menu-left li:hover {
 	cursor: pointer;
-	background-color: #0a6586;
+	background-color: lime;
 }
 
 .topbar .right-side-nospace .topbar-menu-right {
@@ -634,7 +634,7 @@ a {
 }
 
 .ossn-wall-container .controls {
-	background-color: #F6F7F8;
+	background-color: #000000;
 	margin-top: 5px;
 	border: 1px solid #E9EAED;
 	padding: 5px 10px;
@@ -646,7 +646,7 @@ a {
 
 .ossn-wall-container .wall-tabs {
 	border-bottom: 1px solid #E5E5E5;
-	background-color: #F6F7F8;
+	background-color: #000000;
 	border: 1px solid #E9EAED;
 	margin-top: 5px;
 	border-top-right-radius: 10px;
@@ -1285,7 +1285,7 @@ a {
 	Ossn Ads
 *******************************************/
 .ad-image-container {
-	background: #f6f7f8;
+	background: #000000;
 	padding: 5px;
 	border: 1px solid #ebebeb;
 }
@@ -1334,7 +1334,7 @@ a {
 }
 
 .ossn-widget .widget-heading {
-	background: #F6F7F8;
+	background: #000000;
 	border: 1px solid #eee;
 	padding: 10px;
 	font-weight: bold;

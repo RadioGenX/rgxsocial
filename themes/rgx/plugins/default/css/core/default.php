@@ -994,7 +994,7 @@ a {
 *********************************/
 
 .sidebar {
-	background-color: #333;
+	background-color: #000000;
 	height: 200px;
 	z-index: 1000;
 	width: var(--layout-sidebar-width);
@@ -1729,7 +1729,7 @@ a {
 }
 
 .btn-standalone-grey {
-	color: #333;
+	color: #000000;
 	font-weight: bold;
 	text-decoration: none;
 	width: auto;
@@ -1763,7 +1763,7 @@ a {
 }
 
 .btn-standalone-grey:hover {
-	color: #333;
+	color: #000000;
 	text-decoration: none;
 }
 
@@ -2400,7 +2400,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 
 .button-grey,
 .btn-action {
-	color: #333;
+	color: #000000;
 	font-weight: bold;
 	width: auto;
 	margin: 0;
@@ -3169,20 +3169,20 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .btn-default {
-	color: #333;
+	color: #000000;
 	background-color: #000000;
 	border-color: #ccc;
 }
 
 .btn-default:focus,
 .btn-default.focus {
-	color: #333;
+	color: #000000;
 	background-color: #000000;
 	border-color: #8c8c8c;
 }
 
 .btn-default:hover {
-	color: #333;
+	color: #000000;
 	background-color: #000000;
 	border-color: #adadad;
 }
@@ -3190,7 +3190,7 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-default:active,
 .btn-default.active,
 .open>.dropdown-toggle.btn-default {
-	color: #333;
+	color: #000000;
 	background-color: #000000;
 	border-color: #adadad;
 }

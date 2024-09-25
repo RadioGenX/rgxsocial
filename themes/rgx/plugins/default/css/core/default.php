@@ -684,7 +684,7 @@ a {
 
 .ossn-wall-container .controls li {
 	padding: 7px;
-	background: #e5e5e5e0;
+	background: #53565A;
 	display: inline-block;
 	border-radius: 50%;
 	cursor: pointer;
@@ -713,7 +713,7 @@ a {
 .ossn-wall-privacy {
 	margin-right: 5px;
 	padding: 5px 10px;
-	background: #e5e5e5e0;
+	background: #53565A;
 	border-radius: 10px;
 	cursor: pointer;
 	display: inline-block;
@@ -721,7 +721,7 @@ a {
 }
 
 .ossn-wall-privacy-dummy {
-	background: #e5e5e5e0;
+	background: #53565A;
 	cursor: initial;
 	opacity: 0.5;
 }

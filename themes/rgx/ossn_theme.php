@@ -10,9 +10,9 @@
  */
 define('__THEMEDIR__', ossn_route()->themes . 'rgx/');
 
-ossn_register_callback('ossn', 'init', 'ossn_rgx_theme_init');
+ossn_register_callback('ossn', 'init', 'ossn_goblue_theme_init');
 
-function ossn_rgx_theme_init() {
+function ossn_goblue_theme_init() {
 		//add bootstrap
 		ossn_new_css('bootstrap.min', 'css/bootstrap/bootstrap.min.css');
 
@@ -26,25 +26,25 @@ function ossn_rgx_theme_init() {
 		ossn_load_css('ossn.default');
 		ossn_load_css('ossn.admin.default', 'admin');
 
-		ossn_extend_view('ossn/admin/head', 'ossn_rgx_admin_head');
-		ossn_extend_view('ossn/site/head', 'ossn_rgx_head');
-		ossn_extend_view('js/opensource.socialnetwork', 'js/rgx');
+		ossn_extend_view('ossn/admin/head', 'ossn_goblue_admin_head');
+		ossn_extend_view('ossn/site/head', 'ossn_goblue_head');
+		ossn_extend_view('js/opensource.socialnetwork', 'js/goblue');
 
 		if(ossn_isAdminLoggedin()) {
 				ossn_register_menu_item('admin/sidemenu', array(
-						'name'   => 'admin:theme:rgx',
-						'text'   => ossn_print('admin:theme:rgx'),
-						'href'   => ossn_site_url('administrator/settings/rgx'),
+						'name'   => 'admin:theme:goblue',
+						'text'   => ossn_print('admin:theme:goblue'),
+						'href'   => ossn_site_url('administrator/settings/goblue'),
 						'parent' => 'admin:sidemenu:themes',
 				));
-				ossn_register_site_settings_page('rgx', 'settings/admin/rgx');
+				ossn_register_site_settings_page('goblue', 'settings/admin/goblue');
 				ossn_register_action('rgx/settings', __THEMEDIR__ . 'actions/settings.php');
 				//[E] Allow custom logos to be saved with different file name #2334
 				ossn_register_action('rgx/settings/logos_bgs_reset', __THEMEDIR__ . 'actions/logos_bgs_reset.php');
 		}
 }
-function ossn_rgx_set_custom_logos_bgs_setting($key, $val) {
-		$settings = ossn_rgx_get_custom_logos_bgs_setting();
+function ossn_goblue_set_custom_logos_bgs_setting($key, $val) {
+		$settings = ossn_goblue_get_custom_logos_bgs_setting();
 		if(!empty($key) && !empty($val)) {
 				if(!$settings) {
 						$settings = array();
@@ -56,7 +56,7 @@ function ossn_rgx_set_custom_logos_bgs_setting($key, $val) {
 		}
 		return false;
 }
-function ossn_rgx_get_custom_logos_bgs_setting() {
+function ossn_goblue_get_custom_logos_bgs_setting() {
 		$config = ossn_route()->themes . 'rgx/logos_backgrounds/config.json';
 		if(file_exists($config)) {
 				$json = file_get_contents($config);
@@ -69,7 +69,7 @@ function ossn_rgx_get_custom_logos_bgs_setting() {
 		}
 		return false;
 }
-function ossn_rgx_head() {
+function ossn_goblue_head() {
 		$head = array();
 
 		$head[] = ossn_html_css(array(
@@ -86,7 +86,7 @@ function ossn_rgx_head() {
 		));
 		return implode('', $head);
 }
-function ossn_rgx_admin_head() {
+function ossn_goblue_admin_head() {
 		$head   = array();
 		$head[] = ossn_html_css(array(
 				'href' => '//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css',

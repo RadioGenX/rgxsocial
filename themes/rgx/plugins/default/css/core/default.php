@@ -3202,7 +3202,7 @@ footer .ossn-footer-menu a:last-child::after {
 .dropdown-item.active,
 .dropdown-item:active {
 	color: #212529;
-	background-color: #e9ecef;
+	background-color: #000000;
 }
 
 .page-item.active .page-link {

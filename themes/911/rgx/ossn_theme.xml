@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme xmlns="http://www.opensource-socialnetwork.org/theme/v/3.0">
+    <name>rgx</name>
+    <id>rgx</id>
+    <author>RadioGenX</author>
+    <author_url>https://radiogenx.com/</author_url>	
+    <description>Theme for realgenx.com Social</description>
+    <license>Open Source Social Network License (OSSN LICENSE)</license>
+    <license_url>https://www.opensource-socialnetwork.org/licence</license_url>
+    <version>8.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>7.3</version>
+	</requires>
+</theme>

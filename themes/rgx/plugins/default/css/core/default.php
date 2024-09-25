@@ -262,7 +262,7 @@ a {
 }
 
 .ossn-layout-startup footer .ossn-footer-menu a {
-	color: #fff;
+	color: #000000;
 }
 
 .ossn-home-container {
@@ -278,7 +278,7 @@ a {
 
 .ossn-layout-module {
 	margin-top: 10px;
-	background: #fff;
+	background: #000000;
 	border: 1px solid #eee;
 	border-radius: 10px;
 }
@@ -317,7 +317,7 @@ a {
 
 .ossn-layout-media .content,
 .ossn-page-contents {
-	background: #fff;
+	background: #000000;
 	padding: 10px;
 	border: 1px solid #eee;
 }
@@ -359,7 +359,7 @@ a {
 }
 
 .ossn-page-loading-annimation {
-	background: #fff;
+	background: #000000;
 	position: fixed;
 	left: 0px;
 	top: 0px;
@@ -376,7 +376,7 @@ a {
 
 .newsfeed-middle-top {
 	display: none;
-	background-color: #fff;
+	background-color: #000000;
 	box-shadow: inset 0 0 0 1px rgba(144, 144, 144, 0.25);
 	border-radius: 3px;
 	margin-top: 2px;
@@ -391,7 +391,7 @@ a {
 
 .topbar {
 	background: #0b769c;
-	color: #fff;
+	color: #000000;
 	z-index: 1;
 	position: relative;
 	height: 49px;
@@ -406,7 +406,7 @@ a {
 	text-transform: uppercase;
 	font-size: 20px;
 	padding: 10px;
-	color: #fff;
+	color: #000000;
 	display: block;
 	font-weight: bold;
 }
@@ -433,7 +433,7 @@ a {
 .topbar-menu-left li a {
 	padding: 10px;
 	display: block;
-	color: #fff;
+	color: #000000;
 }
 
 .topbar-menu-right li:hover,
@@ -467,7 +467,7 @@ a {
 .topbar .ossn-icons-topbar-friends-new,
 .topbar .ossn-icons-topbar-messages-new,
 .topbar .ossn-icons-topbar-notifications-new i {
-	color: #fff;
+	color: #000000;
 }
 
 /************************************************
@@ -544,7 +544,7 @@ a {
 	padding: 15px;
 	padding-top: 10px;
 	margin-top: 20px;
-	background-color: #fff;
+	background-color: #000000;
 	padding-bottom: 0px;
 	border-radius: 10px;
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
@@ -626,7 +626,7 @@ a {
 	border-top: 0px;
 	resize: none;
 	outline: none;
-	background: #fff;
+	background: #000000;
 	border-radius: 0;
 	font-size: 15px;
 	resize: vertical;
@@ -701,7 +701,7 @@ a {
 }
 
 .ossn-wall-container .controls li:hover {
-	background: #fff;
+	background: #000000;
 }
 
 .ossn-wall-post-button-container {
@@ -749,7 +749,7 @@ a {
 }
 
 .ossn-wall-container-data {
-	background: #fff;
+	background: #000000;
 	padding: 10px;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
@@ -775,7 +775,7 @@ a {
 .ossn-wall-container input[type="file"] {
 	border: 1px solid #E9EAED;
 	border-radius: 10px;
-	background: #fff;
+	background: #000000;
 }
 
 #token-input-ossn-wall-friend-input {
@@ -783,12 +783,12 @@ a {
 	padding: 7px;
 	margin-bottom: 5px;
 	margin-top: -5px;
-	background: #fff;
+	background: #000000;
 	border: 0;
 }
 
 #ossn-wall-location-input {
-	background: #fff;
+	background: #000000;
 	border: 1px solid #E9EAED;
 	border-radius: 10px;
 }
@@ -1003,11 +1003,11 @@ a {
 	margin-left: calc(-1 * var(--layout-sidebar-width));
 	overflow-y: auto;
 	overflow-x: hidden;
-	color: #fff;
+	color: #000000;
 }
 
 .sidebar a {
-	color: #fff;
+	color: #000000;
 	font-size: 14px;
 }
 
@@ -1074,7 +1074,7 @@ a {
 .newseed-uinfo .name a {
 	font-weight: bold;
 	display: block;
-	color: #fff;
+	color: #000000;
 	font-size: 13px;
 }
 
@@ -1148,7 +1148,7 @@ a {
 
 .sidebar-menu-nav li a {
 	text-decoration: none;
-	color: #fff;
+	color: #000000;
 }
 
 .sidebar-menu-nav li a i {
@@ -1158,7 +1158,7 @@ a {
 }
 
 .sidebar-menu-nav li:hover {
-	border-left: 3px solid #fff;
+	border-left: 3px solid #000000;
 	background-color: #4f5b69;
 	-webkit-transition: all 1s ease;
 	-moz-transition: all 1s ease;
@@ -1260,7 +1260,7 @@ a {
 }
 
 .dropdown-submenu:hover>a:after {
-	border-left-color: #fff;
+	border-left-color: #000000;
 }
 
 .dropdown-submenu.pull-left {
@@ -1326,7 +1326,7 @@ a {
 
 .ossn-widget {
 	margin-bottom: 10px;
-	background-color: #fff;
+	background-color: #000000;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	border-bottom-left-radius: 3px;
@@ -1399,7 +1399,7 @@ a {
 	font-size: 14px;
 	text-align: left;
 	list-style: none;
-	background-color: #fff;
+	background-color: #000000;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	border: 1px solid #ccc;
@@ -1532,7 +1532,7 @@ a {
 .ossn-notification-container {
 	background-color: #dc0d17;
 	background-image: -webkit-linear-gradient(#fa3c45, #dc0d17);
-	color: #fff;
+	color: #000000;
 	min-height: 13px;
 	padding: 1px 3px;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, .4);
@@ -1615,7 +1615,7 @@ a {
 ********************************/
 
 .ossn-profile .top-container {
-	background: #fff;
+	background: #000000;
 	border: 1px solid #C4CDE0;
 	border-width: 1px 1px 2px;
 	border-bottom-left-radius: 5px;
@@ -1697,7 +1697,7 @@ a {
 	position: absolute;
 	margin-left: 20px;
 	margin-top: -190px;
-	background-color: #fff;
+	background-color: #000000;
 	border: 1px solid #CCC;
 	border-radius: 2px 2px 2px 2px;
 	-webkit-border-radius: 2px 2px 2px 2px;
@@ -1708,7 +1708,7 @@ a {
 .ossn-profile .profile-photo img {}
 
 .ossn-profile .user-fullname {
-	color: #FFF;
+	color: #000000;
 	font-weight: bold;
 	margin-top: -155px;
 	font-size: 35px;
@@ -1741,9 +1741,9 @@ a {
 	outline: none;
 	text-align: center;
 	white-space: nowrap;
-	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #FFF;
-	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.10), inset 0 1px 0 #fff;
-	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #FFF;
+	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.10), inset 0 1px 0 #000000;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
 	border: 1px solid #999;
 	border-bottom-color: #888;
 	background: #EEE;
@@ -1804,7 +1804,7 @@ a {
 	width: 170px;
 	padding: 10px;
 	position: absolute;
-	color: #FFF;
+	color: #000000;
 	text-align: center;
 	font-size: 15px;
 	font-family: sans-serif;
@@ -1823,7 +1823,7 @@ a {
 .user-photo-uploading {
 	height: 100%;
 	opacity: 0.8;
-	background: #fff;
+	background: #000000;
 	width: 100%;
 	padding: 7px;
 	position: absolute;
@@ -1968,7 +1968,7 @@ ul.token-input-list {
 	min-height: 1px;
 	margin: 0;
 	z-index: 999;
-	background-color: #fff;
+	background-color: #000000;
 	list-style-type: none;
 	clear: left;
 	color: #2B5470;
@@ -2029,7 +2029,7 @@ li.token-input-input-token {
 div.token-input-dropdown {
 	position: absolute;
 	width: 400px;
-	background-color: #fff;
+	background-color: #000000;
 	overflow: hidden;
 	border-left: 1px solid #ccc;
 	border-right: 1px solid #ccc;
@@ -2050,18 +2050,18 @@ div.token-input-dropdown ul {
 }
 
 div.token-input-dropdown ul li {
-	background-color: #fff;
+	background-color: #000000;
 	padding: 3px;
 	margin: 0;
 	list-style-type: none;
 }
 
 div.token-input-dropdown ul li.token-input-dropdown-item {
-	background-color: #fff;
+	background-color: #000000;
 }
 
 div.token-input-dropdown ul li.token-input-dropdown-item2 {
-	background-color: #fff;
+	background-color: #000000;
 }
 
 div.token-input-dropdown ul li em {
@@ -2152,7 +2152,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	background: #000;
 }
 .ossn-viewer .info-block {
-	background: #fff;
+	background: #000000;
 	height: 100%;
 	width: 325px;
 	float: right;
@@ -2167,7 +2167,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	width: 470px;
 	min-width: 470px;
 	min-height: 96px;
-	background: #fff;
+	background: #000000;
 	border: 1px solid #999;
 	position: fixed;
 	top: 0px;
@@ -2288,7 +2288,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 .ossn-form input[type=checkbox]:checked,
 .ossn-form input[type=radio]:checked {
 	background-color: #0b769c;
-	color: #fff;
+	color: #000000;
 	font-weight: bold;
 }
 .checkbox-block span {
@@ -2411,9 +2411,9 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	outline: none;
 	text-align: center;
 	white-space: nowrap;
-	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #FFF;
-	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.10), inset 0 1px 0 #fff;
-	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #FFF;
+	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.10), inset 0 1px 0 #000000;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
 	border: 1px solid #ccc;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#F5F6F6), to(#E4E4E3));
 	background: -moz-linear-gradient(#f5f6f6, #e4e4e3);
@@ -2532,7 +2532,7 @@ footer .ossn-footer-menu a:last-child::after {
 	font-weight: bold;
 	margin-top: 20px;
 	text-align: justify;
-	color: #fff;
+	color: #000000;
 }
 
 .home-left-contents .buttons {
@@ -2605,7 +2605,7 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .landing-page-icons {
-     color: #fff;
+     color: #000000;
      text-align: center;
      margin-top: 30px;
 }
@@ -3118,7 +3118,7 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .btn-warning {
-	color: #fff;
+	color: #000000;
 }
 
 .btn-primary {
@@ -3127,14 +3127,14 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .btn-primary:hover {
-	color: #fff;
+	color: #000000;
 	background-color: #286090;
 	border-color: #204d74;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
-	color: #fff;
+	color: #000000;
 	background-color: #286090;
 	border-color: #122b40;
 }
@@ -3152,25 +3152,25 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .btn-warning {
-	color: #fff;
+	color: #000000;
 	background-color: #f0ad4e;
 	border-color: #eea236;
 }
 
 .btn-warning:active {
-	color: #fff;
+	color: #000000;
 }
 
 .btn-warning:focus,
 .btn-warning.focus {
-	color: #fff;
+	color: #000000;
 	background-color: #ec971f;
 	border-color: #985f0d;
 }
 
 .btn-default {
 	color: #333;
-	background-color: #fff;
+	background-color: #000000;
 	border-color: #ccc;
 }
 

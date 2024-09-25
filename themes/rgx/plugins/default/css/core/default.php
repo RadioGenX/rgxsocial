@@ -848,7 +848,7 @@ a {
 }
 
 .comments-list {
-	background-color: #FBFBFB;
+	background-color: #000000;
 	margin-left: -15px;
 	margin-right: -15px;
 	padding-left: 10px;
@@ -965,7 +965,7 @@ a {
 	border-bottom: 1px solid #eee;
 	padding: 10px;
 	margin-top: 10px;
-	background-color: #FBFBFB;
+	background-color: #000000;
 	margin-left: -15px;
 	margin-right: -15px;
 	padding-left: 20px;
@@ -1986,7 +1986,7 @@ li.token-input-token {
 	height: 15px;
 	margin: 3px;
 	padding: 1px 3px;
-	background-color: #eff2f7;
+	background-color: #000000;
 	color: #2B5470;
 	cursor: default;
 	font-weight: bold;
@@ -2096,7 +2096,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 .ossn-message-done {
 	border: 1px solid #1EB0DF;
 	border-width: 1px;
-	background-color: #DAF6FF;
+	background-color: #000000;
 	padding: 13px;
 	text-align: left;
 }

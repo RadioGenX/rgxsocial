@@ -20,9 +20,28 @@
  * @link      https://www.opensource-socialnetwork.org/
 */
 
+/*******************************
+	rgx global settngs
+*******************************/
+
+* {
+	color:lime; 
+	font-size:14.0pt;
+	font-family: "Courier New", monospace;
+	font-variant: small-caps;
+	letter-spacing:1.0pt;
+	background-color: black;
+	font-variant:small-caps;
+	line-height: 0.5;
+	text-align:center;
+	vertical-align:middle;
+	box-sizing:border-box;
+}
+
+/*******************************/
+
 body {
-	font-family: 'Roboto Slab', serif;
-	font-size: 14px;
+	font-family: "Courier New", monospace;
 }
 
 .logo {}
@@ -38,7 +57,7 @@ i {
 }
 .header {
 	height: 70px;
-	color: #fff;
+	color: lime;
 	background: #3D3D3D;
 }
 
@@ -55,13 +74,13 @@ i {
 }
 
 .header-dropdown a i {
-	color: #fff;
+	color: lime;
 	font-size: 30px;
 	padding-top: 5px;
 }
 
 form {
-	background: #fff;
+	background: lime;
 	padding: 10px;
 	border: 1px solid #eee;
 	border-radius: 5px;
@@ -72,7 +91,7 @@ form {
 }
 
 a {
-	color: #337ab7;
+	color: lime;
 	text-decoration: none;
 }
 
@@ -85,7 +104,7 @@ textarea {
 	color: #333;
 	font-size: 13px;
 	border: 1px solid #eee;
-	background: #f9f9f9;
+	background: lime;
 	border-radius: 5px;
 	display: block;
 	-moz-border-radius: 2px;
@@ -103,7 +122,7 @@ textarea {
 input[type="search"]:focus,
 input[type="text"]:focus,
 textarea:focus {
-	border-color: #ddd;
+	border-color: lime;
 	box-shadow: 0 0 3px #eee;
 	-o-box-shadow: 0 0 3px #eee;
 	-moz-box-shadow: 0 0 3px #eee;
@@ -154,13 +173,13 @@ label {
 	border-color: transparent;
 	border-style: solid;
 	border-width: 5px 0 5px 5px;
-	border-left-color: #ccc;
+	border-left-color: lime;
 	margin-top: 5px;
 	margin-right: -10px;
 }
 
 .dropdown-submenu:hover>a:after {
-	border-left-color: #fff;
+	border-left-color: lime;
 }
 
 .dropdown-submenu.pull-left {
@@ -189,8 +208,8 @@ label {
 }
 
 .page-title {
-	background-color: #f5f5f5;
-	border: 1px solid #ddd;
+	background-color: #000000;
+	border: 1px solid lime;
 	padding: 10px;
 	font-weight: 700;
 	border-top-left-radius: 5px;
@@ -246,7 +265,7 @@ label {
 }
 
 .table-titles {
-	background: #f8f8f8;
+	background: #000000;
 }
 
 .block {
@@ -271,12 +290,12 @@ label {
 
 .admin-dashboard-box {
 	min-height: 200px;
-	background: #fff;
+	background: lime;
 }
 
 .admin-dashboard-title {
-	background-color: #f8f8f8;
-	border: 1px solid #e7e7e7;
+	background-color: #000000;
+	border: 1px solid lime;
 	padding: 10px;
 	font-weight: 700;
 	border-top-left-radius: 5px;
@@ -291,9 +310,9 @@ label {
 
 .admin-dashboard-contents {
 	padding: 10px;
-	border-bottom: 1px solid #e7e7e7;
-	border-left: 1px solid #e7e7e7;
-	border-right: 1px solid #e7e7e7;
+	border-bottom: 1px solid lime;
+	border-left: 1px solid lime;
+	border-right: 1px solid lime;
 	max-height: 250px;
 	margin-bottom: 15px;
 }
@@ -390,7 +409,7 @@ footer a {
 	border: 0;
 	outline: 0;
 	flex-grow: 0;
-	background-color: #FFFFFF;
+	background-color: limeFFF;
 	transition: background 300ms;
 	cursor: pointer;
 	float: left;
@@ -461,7 +480,7 @@ footer a {
 
 .ossn-form input[type=radio]:checked {
 	background-color: #0b769c;
-	color: #fff;
+	color: lime;
 	font-weight: bold;
 }
 
@@ -473,7 +492,7 @@ footer a {
 
 .admin-dashboard-box-small {
 	min-height: 100px;
-	background: #fff;
+	background: lime;
 }
 
 .admin-dashboard-contents-small {
@@ -492,7 +511,7 @@ footer a {
 }
 
 .navbar-default .navbar-nav>li>a {
-	color: #fff;
+	color: lime;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
@@ -550,7 +569,7 @@ footer a {
 	width: 470px;
 	min-width: 470px;
 	min-height: 96px;
-	background: #fff;
+	background: lime;
 	border: 1px solid #999;
 	position: fixed;
 	top: 0px;
@@ -567,7 +586,7 @@ footer a {
 
 .ossn-message-box .close-box {
 	float: right;
-	color: #ccc;
+	color: lime;
 	cursor: pointer;
 }
 
@@ -626,7 +645,7 @@ footer a {
 }
 
 .ossn-page-loading-annimation {
-	background: #fff;
+	background: lime;
 	position: fixed;
 	left: 0px;
 	top: 0px;
@@ -746,8 +765,8 @@ footer a {
 
 .card-header {
 	color: #333;
-	background-color: #f5f5f5;
-	border-color: #ddd;
+	background-color: #000000;
+	border-color: lime;
 }
 
 .card-body p {
@@ -760,7 +779,7 @@ tfoot,
 tr,
 td,
 th {
-	border-top: 1px solid #ddd;
+	border-top: 1px solid lime;
 }
 
 .table> :not(caption)>*>* {
@@ -768,7 +787,7 @@ th {
 }
 
 .navbar-toggler {
-	color: #fff;
+	color: lime;
 }
 
 .navbar-toggler:focus {
@@ -786,18 +805,18 @@ th {
 }
 
 .page-item.active .page-link {
-	background-color: #337ab7;
-	border-color: #337ab7;
+	background-color: lime;
+	border-color: lime;
 }
 
 .page-link {
-	color: #337ab7;
+	color: lime;
 }
 
 .page-link:hover {
 	color: #23527c;
 	background-color: #eee;
-	border-color: #ddd;
+	border-color: lime;
 }
 .dropdown-item.active, .dropdown-item:active {
     color: initial;

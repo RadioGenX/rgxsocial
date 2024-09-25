@@ -95,7 +95,7 @@ body {
 
 .btn-link {
 	font-weight: 400;
-	color: #337ab7;
+	color: lime;
 }
 
 .form-control {
@@ -1450,7 +1450,7 @@ a {
 }
 
 .ossn-notifications-box .type-name .links a {
-	color: #337ab7;
+	color: lime;
 	display: inline;
 	font-weight: normal;
 }
@@ -1464,7 +1464,7 @@ a {
 
 .ossn-notifications-box .bottom-all a,
 .ossn-notifications-box .notfi-meta strong {
-	color: #337ab7;
+	color: lime;
 }
 
 .ossn-notifications-box .notfi-meta {
@@ -1577,7 +1577,7 @@ a {
 }
 
 .notification-friends .notfi-meta a {
-	color: #337ab7;
+	color: lime;
 	font-weight: bold;
 	display: inline-block;
 	width: 200px;
@@ -3206,12 +3206,12 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .page-item.active .page-link {
-	background-color: #337ab7;
-	border-color: #337ab7;
+	background-color: lime;
+	border-color: lime;
 }
 
 .page-link {
-	color: #337ab7;
+	color: lime;
 }
 
 .page-link:hover {

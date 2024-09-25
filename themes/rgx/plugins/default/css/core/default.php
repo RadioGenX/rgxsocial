@@ -944,8 +944,8 @@ a {
 	display: block;
 	resize: vertical;
 	min-height: 32px;
-	background-color: #f2f3f5;
-	border: 1px solid #ccd0d5;
+	background-color: #000000;
+	border: 1px solid lime;
 	border-radius: 15px;
 	word-break: break-word;
 	text-align: left;

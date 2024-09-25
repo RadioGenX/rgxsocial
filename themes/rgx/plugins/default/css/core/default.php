@@ -1714,7 +1714,7 @@ a {
 .ossn-profile .profile-photo img {}
 
 .ossn-profile .user-fullname {
-	color: #000000;
+	color: lime;
 	font-weight: bold;
 	margin-top: -155px;
 	font-size: 35px;
@@ -1727,11 +1727,13 @@ a {
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
+	background-color: transparent;
 }
 
 .ossn-profile-role {
 	font-size: 25px !important;
 	margin-top: -105px !important;
+	background-color: transparent;
 }
 
 .btn-standalone-grey {

@@ -101,7 +101,7 @@ select,
 input[type="password"],
 input[type="text"],
 textarea {
-	color: #333;
+	color: lime;
 	font-size: 13px;
 	border: 1px solid #eee;
 	background: lime;
@@ -140,7 +140,7 @@ input[type="submit"] {
 
 label {
 	font-weight: bold;
-	color: #333;
+	color: lime;
 	cursor: pointer;
 	display: block;
 	margin-bottom: 2px;
@@ -738,7 +738,7 @@ footer a {
 
 .logo-container-rgx img {
 	background: #eee;
-	border: 1px dashed #333;
+	border: 1px dashed lime;
 	margin: 10px 0;
 	padding: 10px;
 	max-width: 300px;
@@ -764,7 +764,7 @@ footer a {
 }
 
 .card-header {
-	color: #333;
+	color: lime;
 	background-color: #000000;
 	border-color: lime;
 }

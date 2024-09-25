@@ -5,6 +5,20 @@
 	--layout-sidebar-width: 220px;
 }
 
+* {
+	color:lime; 
+	font-size:14.0pt;
+	font-family: "Courier New", monospace;
+	font-variant: small-caps;
+	letter-spacing:1.0pt;
+	background-color: black;
+	font-variant:small-caps;
+	line-height: 0.5;
+	text-align:center;
+	vertical-align:middle;
+	box-sizing:border-box;
+}
+
 body {
 	font-size: 14px;
 	background-color: #000000

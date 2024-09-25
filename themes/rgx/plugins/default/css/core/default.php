@@ -36,11 +36,11 @@ body {
 
 ::-webkit-scrollbar-track {
 	background-color: #000000
-	border-left: 1px solid #ccc;
+	border-left: 1px solid lime;
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #ccc;
+	background-color: lime;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -754,7 +754,7 @@ a {
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 	border: 1px solid #E5E5E5;
-	border-bottom-color: #ccc;
+	border-bottom-color: lime;
 	border-width: 0 1px 2px 1px;
 }
 
@@ -840,7 +840,7 @@ a {
 	content: "-";
 	margin-left: 5px;
 	margin-right: 5px;
-	color: #ccc;
+	color: lime;
 }
 
 .menu-likes-comments-share li:last-child:after {
@@ -1254,7 +1254,7 @@ a {
 	border-color: transparent;
 	border-style: solid;
 	border-width: 5px 0 5px 5px;
-	border-left-color: #ccc;
+	border-left-color: lime;
 	margin-top: 5px;
 	margin-right: -10px;
 }
@@ -1402,7 +1402,7 @@ a {
 	background-color: #000000;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	border: 1px solid #ccc;
+	border: 1px solid lime;
 	border: 1px solid rgba(0, 0, 0, .15);
 	border-radius: 5px;
 	-webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
@@ -1698,7 +1698,7 @@ a {
 	margin-left: 20px;
 	margin-top: -190px;
 	background-color: #000000;
-	border: 1px solid #CCC;
+	border: 1px solid lime;
 	border-radius: 2px 2px 2px 2px;
 	-webkit-border-radius: 2px 2px 2px 2px;
 	-moz-border-radius: 2px 2px 2px 2px;
@@ -2031,9 +2031,9 @@ div.token-input-dropdown {
 	width: 400px;
 	background-color: #000000;
 	overflow: hidden;
-	border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
+	border-left: 1px solid lime;
+	border-right: 1px solid lime;
+	border-bottom: 1px solid lime;
 	cursor: default;
 	font-size: 11px;
 	z-index: 1;
@@ -2145,7 +2145,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	margin-right: 5px;
 	font-weight: bold;
 	font-size: 13px;
-	color: #ccc;
+	color: lime;
 }
 
 .ossn-container tbody {
@@ -2184,7 +2184,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 
 .ossn-message-box .close-box {
 	float: right;
-	color: #ccc;
+	color: lime;
 	cursor: pointer;
 }
 
@@ -2414,7 +2414,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
 	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.10), inset 0 1px 0 #000000;
 	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
-	border: 1px solid #ccc;
+	border: 1px solid lime;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#F5F6F6), to(#E4E4E3));
 	background: -moz-linear-gradient(#f5f6f6, #e4e4e3);
 	background: -o-linear-gradient(#f5f6f6, #e4e4e3);
@@ -3171,7 +3171,7 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-default {
 	color: #000000;
 	background-color: #000000;
-	border-color: #ccc;
+	border-color: lime;
 }
 
 .btn-default:focus,

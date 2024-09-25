@@ -715,9 +715,9 @@ footer a {
 	height: 140px;
 }
 
-.logo-container-goblue {}
+.logo-container-rgx {}
 
-.logo-container-goblue img {
+.logo-container-rgx img {
 	background: #eee;
 	border: 1px dashed #333;
 	margin: 10px 0;

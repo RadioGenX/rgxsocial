@@ -5,6 +5,10 @@
 	--layout-sidebar-width: 220px;
 }
 
+/*******************************
+	rgx global settngs
+*******************************/
+
 * {
 	color:lime; 
 	font-size:14.0pt;
@@ -19,10 +23,12 @@
 	box-sizing:border-box;
 }
 
+/*******************************/
+
 body {
 	font-size: 14px;
 	background-color: #000000
-	font-family: 'PT Sans', sans-serif;
+	font-family: "Courier New", monospace;
 	height: 100%;
 }
 

@@ -3230,3 +3230,135 @@ label {
 .dropdown-menu {
 	box-shadow: 0 12px 28px 0 rgba(0, 0, 0, 0.20), 0 2px 4px 0 rgba(0, 0, 0, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
 }
+/**********************
+rgx settings
+**********************/
+
+hr {background-color: lime;
+	height:2px
+}
+
+td {padding:0in 5.4pt 0in 5.4pt;
+	text-align: center;
+}
+
+a {text-decoration: underline;
+   text-underline-offset: 6px;
+}
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+
+/* Font Style Definitions */
+
+.Rgx12 {
+	font-size:12.0pt;
+}
+
+.Rgx12b {
+	font-size:12.0pt;
+	font-weight:bold;
+}
+
+.Rgx14 {
+	font-size:14.0pt;
+}
+
+.Rgx14b {
+	font-size:14.0pt;
+	font-weight:bold;
+}
+
+.Rgx20 {
+	font-size:20.0pt;
+	letter-spacing:2.0pt;
+}
+
+.Rgx20b {
+	font-size:20.0pt;
+	line-height: 0.5;
+	letter-spacing:2.0pt;
+	font-weight:bold;
+}
+
+.Rgx24 {
+	font-size:24.0pt;
+	letter-spacing:2.0pt;
+}
+
+.Rgx24b {
+	font-size:24.0pt;
+	letter-spacing:2.0pt;
+	font-weight:bold;
+}
+
+.Rgx36 {
+	font-size:36.0pt;
+	line-height: 0.2;
+}
+
+.Rgx36b {
+	font-size:36.0pt;
+	line-height: 0.2;
+	font-weight:bold;
+}
+
+.Rgx48 {
+	font-size:48.0pt;
+	line-height: 0.2;
+	letter-spacing:8.0pt;
+}
+
+.Rgx48b {
+	font-size:48.0pt;
+	line-height: 0.2;
+	letter-spacing:8.0pt;
+	font-weight:bold;
+}
+
+/* Slideshow */
+  .slideshow-container {
+    width: 300px;
+    height: 200px;
+    max-width: 300px;
+    max-height: 200px;
+    position: relative;
+    margin: auto;
+  }
+
+  .Slideshow-Image {
+    max-width: 300px;
+    max-height: 200px;
+    position: relative;
+    margin: auto;
+  }
+
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }

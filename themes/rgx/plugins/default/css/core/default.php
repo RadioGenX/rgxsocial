@@ -636,7 +636,7 @@ a {
 .ossn-wall-container .controls {
 	background-color: #000000;
 	margin-top: 5px;
-	border: 1px solid #E9EAED;
+	border: 1px solid lime;
 	padding: 5px 10px;
 	margin-left: -10px;
 	margin-right: -10px;
@@ -647,7 +647,7 @@ a {
 .ossn-wall-container .wall-tabs {
 	border-bottom: 1px solid lime;
 	background-color: #000000;
-	border: 1px solid #E9EAED;
+	border: 1px solid lime;
 	margin-top: 5px;
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
@@ -765,7 +765,7 @@ a {
 .ossn-wall-container input[type="file"],
 .ossn-wall-container input[type="text"] {
 	width: 100%;
-	border-top: 1px dashed #E9EAED;
+	border-top: 1px dashed lime;
 	padding: 5px;
 	margin-bottom: 5px;
 	margin-top: -5px;
@@ -773,7 +773,7 @@ a {
 }
 
 .ossn-wall-container input[type="file"] {
-	border: 1px solid #E9EAED;
+	border: 1px solid lime;
 	border-radius: 10px;
 	background: #000000;
 }
@@ -789,7 +789,7 @@ a {
 
 #ossn-wall-location-input {
 	background: #000000;
-	border: 1px solid #E9EAED;
+	border: 1px solid lime;
 	border-radius: 10px;
 }
 
@@ -882,7 +882,7 @@ a {
 .comments-list .comments-item .comment-contents {
 	display: inline-block;
 	margin-top: -3px;
-	background-color: #ebedf0;
+	background-color: #000000;
 	border-radius: 18px;
 	width: auto;
 	line-height: 16px;
@@ -2213,7 +2213,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	margin-right: 10px;
 	height: 45px;
 	padding: 10px;
-	border-top: 1px solid #E9EAED;
+	border-top: 1px solid lime;
 }
 
 .ossn-message-box .control .controls {
@@ -2446,7 +2446,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 }
 
 .ossn-users-list-item {
-	border: 1px solid #E9EAED;
+	border: 1px solid lime;
 	margin-bottom: 10px;
 	margin-right: -10px;
 	margin-left: -10px;
@@ -2564,7 +2564,7 @@ footer .ossn-footer-menu a:last-child::after {
 
 .ossn-list-users {
 	height: 60px;
-	border-bottom: 1px solid #E9EAED;
+	border-bottom: 1px solid lime;
 	display: block;
 	margin-left: 5px;
 	margin-bottom: 10px;

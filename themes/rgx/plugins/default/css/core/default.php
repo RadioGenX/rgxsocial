@@ -684,7 +684,7 @@ a {
 
 .ossn-wall-container .controls li {
 	padding: 7px;
-	background: #53565A;
+	background: #000000;
 	display: inline-block;
 	border-radius: 50%;
 	cursor: pointer;

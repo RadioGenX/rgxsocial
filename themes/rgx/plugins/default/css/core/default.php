@@ -279,13 +279,13 @@ a {
 .ossn-layout-module {
 	margin-top: 10px;
 	background: #000000;
-	border: 1px solid #eee;
+	border: 1px solid lime;
 	border-radius: 10px;
 }
 
 .ossn-layout-module .module-title {
 	background: #F9F7F7;
-	border: 1px solid #eee;
+	border: 1px solid lime;
 	padding: 10px;
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
@@ -319,7 +319,7 @@ a {
 .ossn-page-contents {
 	background: #000000;
 	padding: 10px;
-	border: 1px solid #eee;
+	border: 1px solid lime;
 }
 
 .opensource-socalnetwork {
@@ -657,13 +657,13 @@ a {
 	padding: 10px;
 	display: inline-flex;
 	cursor: pointer;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid lime;
 	font-weight: bold;
 	font-size: 13px;
 }
 
 .ossn-wall-container .wall-tabs .item:hover {
-	background: #eee;
+	background: lime;
 }
 
 .ossn-wall-container .wall-tabs .item div {
@@ -727,7 +727,7 @@ a {
 }
 
 .ossn-wall-privacy:hover {
-	background: #eeeeee8c;
+	background: limeeee8c;
 }
 
 .ossn-wall-privacy-dummy span>span,
@@ -928,7 +928,7 @@ a {
 
 .comment-container span[readonly='readonly'],
 .comment-container input[readonly='readonly'] {
-	background: #eee;
+	background: lime;
 }
 
 .comments-item .comment-metadata {
@@ -937,7 +937,7 @@ a {
 
 .comment-box {
 	width: 100%;
-	border: 1px solid #eee;
+	border: 1px solid lime;
 	padding: 6px 65px 6px 12px;
 	margin-bottom: 5px;
 	outline: none;
@@ -961,8 +961,8 @@ a {
 ************************************/
 
 .like-share {
-	border-top: 1px solid #eee;
-	border-bottom: 1px solid #eee;
+	border-top: 1px solid lime;
+	border-bottom: 1px solid lime;
 	padding: 10px;
 	margin-top: 10px;
 	background-color: #000000;
@@ -1335,7 +1335,7 @@ a {
 
 .ossn-widget .widget-heading {
 	background: #000000;
-	border: 1px solid #eee;
+	border: 1px solid lime;
 	padding: 10px;
 	font-weight: bold;
 	border-top-left-radius: 5px;
@@ -1344,7 +1344,7 @@ a {
 
 .ossn-widget .widget-contents {
 	padding: 10px;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid lime;
 	border-bottom-left-radius: 3px;
 	border-bottom-right-radius: 3px;
 }
@@ -1412,7 +1412,7 @@ a {
 }
 
 .ossn-notifications-box .notificaton-item {
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid lime;
 }
 
 .ossn-notifications-box .notificaton-item:hover,
@@ -1486,7 +1486,7 @@ a {
 	padding-top: 10px;
 	display: block;
 	height: 40px;
-	border-top: 1px solid #eee;
+	border-top: 1px solid lime;
 	border-bottom-left-radius: 7px;
 	border-bottom-right-radius: 7px;
 }
@@ -1573,7 +1573,7 @@ a {
 
 .notification-friends li {
 	width: 100%;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid lime;
 }
 
 .notification-friends .notfi-meta a {
@@ -1658,7 +1658,7 @@ a {
 	padding: 15px;
 	margin-right: 5px;
 	font-weight: bold;
-	border-right: 1px solid #eee;
+	border-right: 1px solid lime;
 }
 
 .profile-hr-menu .dropdown-menu {
@@ -1684,7 +1684,7 @@ a {
 .profile-hr-menu ul li:hover {}
 
 .profile-hr-menu {
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid lime;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
@@ -1746,7 +1746,7 @@ a {
 	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #000000;
 	border: 1px solid #999;
 	border-bottom-color: #888;
-	background: #EEE;
+	background: lime;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#F5F6F6), to(#E4E4E3));
 	background: -moz-linear-gradient(#f5f6f6, #e4e4e3);
 	background: -o-linear-gradient(#f5f6f6, #e4e4e3);
@@ -1972,10 +1972,10 @@ ul.token-input-list {
 	list-style-type: none;
 	clear: left;
 	color: #2B5470;
-	border-top: 1px dashed #EEE;
-	border-right: 1px solid #EEE;
-	border-left: 1px solid #EEE;
-	border-bottom: 1px solid #eee;
+	border-top: 1px dashed lime;
+	border-right: 1px solid lime;
+	border-left: 1px solid lime;
+	border-bottom: 1px solid lime;
 	padding: 5px 0 0;
 	border-radius: 10px;
 }
@@ -2015,7 +2015,7 @@ li.token-input-token span {
 
 li.token-input-selected-token {
 	background-color: #000000;
-	border: 1px solid #eee;
+	border: 1px solid lime;
 	color: #2B5470;
 	font-weight: bold;
 }
@@ -2226,7 +2226,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 }
 
 .ossn-message-box .contents input[type='text'] {
-	border: 1px solid #EEE;
+	border: 1px solid lime;
 	width: 292px;
 	padding: 7px;
 }
@@ -3216,7 +3216,7 @@ footer .ossn-footer-menu a:last-child::after {
 
 .page-link:hover {
 	color: #23527c;
-	background-color: #eee;
+	background-color: lime;
 	border-color: #ddd;
 }
 

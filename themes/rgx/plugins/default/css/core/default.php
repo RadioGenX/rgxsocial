@@ -217,7 +217,7 @@ p {
 }
 
 a {
-	color: #0f3b4a;
+	color: lime;
 	text-decoration: none;
 }
 
@@ -461,7 +461,7 @@ a {
 .topbar .ossn-icons-topbar-friends,
 .topbar .ossn-icons-topbar-messages,
 .topbar .ossn-icons-topbar-notification i {
-	color: #0f3b4a;
+	color: lime;
 }
 
 .topbar .ossn-icons-topbar-friends-new,
@@ -1555,7 +1555,7 @@ a {
 }
 
 .ossn-notifications-friends-inner a {
-	color: #0f3b4a !important;
+	color: lime !important;
 	display: inline-block !important;
 }
 

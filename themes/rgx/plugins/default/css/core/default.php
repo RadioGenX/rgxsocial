@@ -597,7 +597,7 @@ a {
 
 .ossn-wall-item .post-contents img {
 	max-width: 100%;
-	border: 1px solid #eae8e8;
+	border: 1px solid lime;
 	display: block;
 	margin-bottom: 10px;
 }

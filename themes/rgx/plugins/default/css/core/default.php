@@ -180,7 +180,7 @@ p {
 	border: 0;
 	outline: 0;
 	flex-grow: 0;
-	background-color: #FFFFFF;
+	background-color: #000000;
 	transition: background 300ms;
 	cursor: pointer;
 	float: left;

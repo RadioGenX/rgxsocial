@@ -21,7 +21,7 @@ if (isset($params['contents'])) {
 } else {
     $contents = '';
 }
-$custom_settings = ossn_goblue_get_custom_logos_bgs_setting();
+$custom_settings = ossn_rgx_get_custom_logos_bgs_setting();
 ?>
 <!DOCTYPE html>
 <html>

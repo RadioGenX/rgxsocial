@@ -7,7 +7,7 @@
 
 body {
 	font-size: 14px;
-	background-color: #eaeaea;
+	background-color: #000000
 	font-family: 'PT Sans', sans-serif;
 	height: 100%;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-	background-color: #eaeaea;
+	background-color: #000000
 	border-left: 1px solid #ccc;
 }
 

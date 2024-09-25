@@ -390,8 +390,8 @@ a {
 ********************************/
 
 .topbar {
-	background: #0b769c;
-	color: #000000;
+	background: #000000;
+	color: lime;
 	z-index: 1;
 	position: relative;
 	height: 49px;
@@ -406,7 +406,7 @@ a {
 	text-transform: uppercase;
 	font-size: 20px;
 	padding: 10px;
-	color: #000000;
+	color: lime;
 	display: block;
 	font-weight: bold;
 }
@@ -467,7 +467,7 @@ a {
 .topbar .ossn-icons-topbar-friends-new,
 .topbar .ossn-icons-topbar-messages-new,
 .topbar .ossn-icons-topbar-notifications-new i {
-	color: #000000;
+	color: lime;
 }
 
 /************************************************
@@ -645,7 +645,7 @@ a {
 }
 
 .ossn-wall-container .wall-tabs {
-	border-bottom: 1px solid #E5E5E5;
+	border-bottom: 1px solid lime;
 	background-color: #000000;
 	border: 1px solid #E9EAED;
 	margin-top: 5px;
@@ -753,7 +753,7 @@ a {
 	padding: 10px;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
-	border: 1px solid #E5E5E5;
+	border: 1px solid lime;
 	border-bottom-color: lime;
 	border-width: 0 1px 2px 1px;
 }
@@ -2193,7 +2193,7 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	padding: 11px;
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
-	border-bottom: 1px solid #E5E5E5;
+	border-bottom: 1px solid lime;
 	color: #5E5656;
 	font-size: 14px;
 	font-weight: bold;

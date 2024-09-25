@@ -3123,20 +3123,20 @@ footer .ossn-footer-menu a:last-child::after {
 
 .btn-primary {
 	background-color: #000000;
-	border-color: #2e6da4;
+	border-color: lime;
 }
 
 .btn-primary:hover {
 	color: #000000;
 	background-color: #000000;
-	border-color: #204d74;
+	border-color: lime;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
 	color: #000000;
 	background-color: #000000;
-	border-color: #122b40;
+	border-color: yellow;
 }
 
 .btn-check:checked+.btn-primary:focus,
@@ -3154,7 +3154,7 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-warning {
 	color: #000000;
 	background-color: #f0ad4e;
-	border-color: #eea236;
+	border-color: lime;
 }
 
 .btn-warning:active {
@@ -3165,7 +3165,7 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-warning.focus {
 	color: #000000;
 	background-color: #ec971f;
-	border-color: #985f0d;
+	border-color: yellow;
 }
 
 .btn-default {
@@ -3178,13 +3178,13 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-default.focus {
 	color: #000000;
 	background-color: #000000;
-	border-color: #8c8c8c;
+	border-color: yellow;
 }
 
 .btn-default:hover {
 	color: #000000;
 	background-color: #000000;
-	border-color: #adadad;
+	border-color: yellow;
 }
 
 .btn-default:active,
@@ -3192,7 +3192,7 @@ footer .ossn-footer-menu a:last-child::after {
 .open>.dropdown-toggle.btn-default {
 	color: #000000;
 	background-color: #000000;
-	border-color: #adadad;
+	border-color: lime;
 }
 
 .pagination {
@@ -3217,7 +3217,7 @@ footer .ossn-footer-menu a:last-child::after {
 .page-link:hover {
 	color: #23527c;
 	background-color: lime;
-	border-color: #ddd;
+	border-color: yellow;
 }
 
 label {

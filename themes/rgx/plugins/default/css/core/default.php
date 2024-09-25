@@ -521,7 +521,7 @@ a {
 .ossn-topbar-dropdown-menu ul li {
 	display: block;
 	width: 100%;
-	color: #000;
+	color: lime;
 }
 
 .ossn-topbar-dropdown-menu .dropdown-menu {

@@ -3122,20 +3122,20 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .btn-primary {
-	background-color: #2a87a7;
+	background-color: #000000;
 	border-color: #2e6da4;
 }
 
 .btn-primary:hover {
 	color: #000000;
-	background-color: #286090;
+	background-color: #000000;
 	border-color: #204d74;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
 	color: #000000;
-	background-color: #286090;
+	background-color: #000000;
 	border-color: #122b40;
 }
 
@@ -3177,13 +3177,13 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-default:focus,
 .btn-default.focus {
 	color: #333;
-	background-color: #e6e6e6;
+	background-color: #000000;
 	border-color: #8c8c8c;
 }
 
 .btn-default:hover {
 	color: #333;
-	background-color: #e6e6e6;
+	background-color: #000000;
 	border-color: #adadad;
 }
 
@@ -3191,7 +3191,7 @@ footer .ossn-footer-menu a:last-child::after {
 .btn-default.active,
 .open>.dropdown-toggle.btn-default {
 	color: #333;
-	background-color: #e6e6e6;
+	background-color: #000000;
 	border-color: #adadad;
 }
 

@@ -15,7 +15,7 @@
 	font-family: "Courier New", monospace;
 	font-variant: small-caps;
 	letter-spacing:1.0pt;
-	line-height: 0.5;
+	line-height: 1.0;
 	vertical-align:middle;
 	box-sizing:border-box;
 }

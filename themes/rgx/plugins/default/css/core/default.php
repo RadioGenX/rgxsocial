@@ -663,7 +663,6 @@ a {
 	padding: 10px;
 	display: inline-flex;
 	cursor: pointer;
-	border-bottom: 1px solid lime;
 	font-weight: bold;
 	font-size: 13px;
 }
@@ -718,6 +717,7 @@ a {
 .ossn-wall-privacy-dummy,
 .ossn-wall-privacy {
 	margin-right: 5px;
+	margin-bottom: 10px;
 	padding: 5px 10px;
 	background: #000000;
 	border-radius: 10px;

@@ -24,7 +24,7 @@
 
 body {
 	font-size: 14px;
-	background-color: #000000
+	background-color: #000000;
 	font-family: "Courier New", monospace;
 	height: 100%;
 }
@@ -447,7 +447,7 @@ a {
 .topbar-menu-right li:hover,
 .topbar-menu-left li:hover {
 	cursor: pointer;
-	background-color: lime;
+	background-color: #515151;
 }
 
 .topbar .right-side-nospace .topbar-menu-right {
@@ -671,7 +671,7 @@ a {
 }
 
 .ossn-wall-container .wall-tabs .item:hover {
-	background: lime;
+	background: #515151;
 }
 
 .ossn-wall-container .wall-tabs .item div {
@@ -727,6 +727,7 @@ a {
 	cursor: pointer;
 	display: inline-block;
 	margin-top: 10px;
+	border: 1px solid lime;
 }
 
 .ossn-wall-privacy-dummy {
@@ -736,7 +737,7 @@ a {
 }
 
 .ossn-wall-privacy:hover {
-	background: limeeee8c;
+	background: #515151;
 }
 
 .ossn-wall-privacy-dummy span>span,
@@ -3138,7 +3139,7 @@ footer .ossn-footer-menu a:last-child::after {
 }
 
 .btn-primary:hover {
-	color: #000000;
+	color: YELLOW;
 	background-color: #000000;
 	border-color: lime;
 }

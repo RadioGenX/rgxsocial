@@ -62,7 +62,7 @@ body {
 .ossn-form input[type='text'] {
 	width: 100%;
 	background-color: #000000;
-	border: 1px solid #ccd0d5;
+	border: 1px solid lime;
 	padding: 8px;
 	margin-bottom: 5px;
 	outline: none;
@@ -2262,12 +2262,13 @@ div.token-input-dropdown ul li.token-input-selected-dropdown-item {
 	top: 5px;
 	height: 20px;
 	width: 20px;
-	border: 0;
+	border: 1px solid lime;
 	border-radius: 50px;
 	cursor: pointer;
 	outline: none;
 	flex-grow: 0;
 	transition: background 300ms;
+	margin-bottom: 5px;
 }
 
 .ossn-form input[type=checkbox] {
@@ -3161,7 +3162,7 @@ footer .ossn-footer-menu a:last-child::after {
 
 .btn-warning {
 	color: #000000;
-	background-color: #f0ad4e;
+	background-color: YELLOW;
 	border-color: lime;
 }
 

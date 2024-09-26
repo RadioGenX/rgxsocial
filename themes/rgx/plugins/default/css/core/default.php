@@ -426,8 +426,13 @@ a {
 	z-index: 1;
 }
 
+.topbar-menu-right {
+	background-color: transparent;
+}
+
 .topbar-menu-right ul {
 	margin-bottom: 0px;
+	background-color: transparent;
 }
 
 .topbar-menu-right li,
@@ -585,6 +590,7 @@ a {
 
 .ossn-wall-item .meta .user a {
 	font-weight: bold;
+	margin-bottom: 10px;
 }
 
 .ossn-wall-item .meta .user span {
@@ -618,7 +624,7 @@ a {
 
 .ossn-wall-container {
 	border-radius: 2px;
-	margin-top: -5px;
+	margin-top: 5px;
 	margin-bottom: 10px;
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
@@ -809,6 +815,7 @@ a {
 
 .ossn-wall-item-type {
 	display: inline-block;
+	margin-bottom: 5px;
 }
 
 .ossn-wall-item .friends {

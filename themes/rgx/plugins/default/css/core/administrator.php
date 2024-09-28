@@ -80,7 +80,7 @@ i {
 }
 
 form {
-	background: lime;
+	background: #000000;
 	padding: 10px;
 	border: 1px solid #eee;
 	border-radius: 5px;
@@ -104,7 +104,7 @@ textarea {
 	color: lime;
 	font-size: 13px;
 	border: 1px solid #eee;
-	background: lime;
+	background: #000000;
 	border-radius: 5px;
 	display: block;
 	-moz-border-radius: 2px;
@@ -290,7 +290,7 @@ label {
 
 .admin-dashboard-box {
 	min-height: 200px;
-	background: lime;
+	background: #000000;
 }
 
 .admin-dashboard-title {
@@ -492,7 +492,7 @@ footer a {
 
 .admin-dashboard-box-small {
 	min-height: 100px;
-	background: lime;
+	background: #000000;
 }
 
 .admin-dashboard-contents-small {
@@ -569,7 +569,7 @@ footer a {
 	width: 470px;
 	min-width: 470px;
 	min-height: 96px;
-	background: lime;
+	background: #000000;
 	border: 1px solid #999;
 	position: fixed;
 	top: 0px;
@@ -645,7 +645,7 @@ footer a {
 }
 
 .ossn-page-loading-annimation {
-	background: lime;
+	background: 000000;
 	position: fixed;
 	left: 0px;
 	top: 0px;

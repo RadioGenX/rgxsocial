@@ -1296,7 +1296,7 @@ a {
 .ad-image-container {
 	background: #000000;
 	padding: 5px;
-	border: 1px solid #ebebeb;
+	border: 1px solid lime;
 }
 
 .ossn-ad-item {}
@@ -1317,6 +1317,7 @@ a {
 	font-weight: bold;
 	font-size: 15px;
 	margin-bottom: 5px;
+	text-align: center;
 }
 
 .ossn-ad-item .ad-link {
@@ -1325,7 +1326,7 @@ a {
 
 .ossn-ad-item p {
 	margin-top: 10px;
-	text-align: justify;
+	text-align: center;
 }
 
 
@@ -1349,6 +1350,7 @@ a {
 	font-weight: bold;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
+	text-align: center;
 }
 
 .ossn-widget .widget-contents {

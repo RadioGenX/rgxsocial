@@ -23,7 +23,7 @@
 	display: inline-block;
 	border-radius: 50%;
 	position: relative;
-	transform: scale(0.325);
+	transform: scale(0.225);
 	margin-left: -37px;
 	margin-top: -37px;
 }

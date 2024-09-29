@@ -996,7 +996,7 @@ a {
 .time-created {
 	font-size: 14px;
 	font-style: italic;
-	color: #999;
+	color: #336600;
 }
 
 
